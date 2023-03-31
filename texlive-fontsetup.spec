@@ -1,6 +1,6 @@
 Name:		texlive-fontsetup
 Version:	62477
-Release:	1
+Release:	2
 Summary:	A front-end to fontspec, for selected fonts with math support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontsetup
