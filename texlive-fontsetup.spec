@@ -1,5 +1,5 @@
 Name:		texlive-fontsetup
-Version:	68602
+Version:	69149
 Release:	1
 Summary:	A front-end to fontspec, for selected fonts with math support
 Group:		Publishing
