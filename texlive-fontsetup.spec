@@ -3,7 +3,7 @@ Version:	72229
 Release:	1
 Summary:	A front-end to fontspec, for selected fonts with math support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontsetup
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fontsetup
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontsetup.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontsetup.doc.r%{version}.tar.xz
